@@ -148,3 +148,5 @@ I have a strong passion for **Artificial Intelligence**, **document understandin
 <p align="center">
   <i>“Build things that matter, learn relentlessly, and always stay curious.”</i>
 </p>
+
+Automated PR pipeline smoke test.
